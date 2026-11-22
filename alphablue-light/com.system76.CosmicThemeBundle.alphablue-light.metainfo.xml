@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="generic">
+  <id>com.system76.CosmicThemeBundle.alphablue</id>
+  <name>Alphablue Light</name>
+  <summary>Cosmic theme bundle</summary>
+  <description>
+    <p>A COSMIC theme bundle carrying the complete look for one mode: the theme, its builder settings, and the background it is shown with.</p>
+  </description>
+  <metadata_license>CC0-1.0</metadata_license>
+  <icon type="stock">preferences-other-symbolic</icon>
+  <custom>
+    <value key="x-cosmic-format">1</value>
+    <value key="x-cosmic-version">1.0.0</value>
+    <value key="x-cosmic-slug">alphablue-light</value>
+    <value key="x-cosmic-mode">light</value>
+    <value key="x-cosmic-parts">Theme,Builder,Background</value>
+    <value key="x-cosmic-assets">[(id:"com.system76.CosmicThemeBundle.alphablue.wallpapers",kind:Wallpaper,path:"data/cosmic/alphablue-light/wallpapers",name:"alphablue-light"),(id:"com.system76.CosmicThemeBundle.alphablue.icons",kind:IconTheme,path:"data/icons/com.system76.CosmicThemeBundle.alphablue.icons",name:"oxygen"),(id:"com.system76.CosmicThemeBundle.alphablue.fonts.fira-sans",kind:Font,path:"data/fonts/com.system76.CosmicThemeBundle.alphablue.fonts.fira-sans",name:"Fira Sans"),(id:"com.system76.CosmicThemeBundle.alphablue.fonts.fira-mono",kind:Font,path:"data/fonts/com.system76.CosmicThemeBundle.alphablue.fonts.fira-mono",name:"Fira Mono")]</value>
+  </custom>
+</component>
